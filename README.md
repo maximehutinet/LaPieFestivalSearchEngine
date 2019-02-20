@@ -20,6 +20,8 @@ The project has been built with different technologies :
 
 ## How to launch the project ?
 
+Before starting, it's important to know that the API REST uses Spotiy and Eventful where are not open. You'll need to get API keys and insert them into the files *EventfulClient.py* and *SpotifyClient.py*.
+
 1) Clone the repository
 
 2) If you're using *virtualenv*, install the requirements to get all the packages necessary to run the program.
