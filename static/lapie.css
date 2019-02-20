@@ -1,0 +1,46 @@
+body {
+    padding-top: 50px;
+}
+.container {
+    width: 100%;
+    padding: 0 0;
+    position: relative;
+}
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+#map {
+    height: 800px;
+    width: 100%;
+    z-index: 1;
+}
+.card {
+    position: absolute;
+    margin-left:auto;
+    margin-right:0;
+    top: 140px;
+    left: 10px;
+    z-index: 2;
+    background-color: white;
+}
+.card-text img {
+    padding: 30px 0 30px 0;
+}
+
+#nprogress .spinner {
+  top: 100px;
+  right: 15px;
+}
+
+.form-group {
+    padding-top: 5px;
+}
+
+#interested{
+    padding-top: 5px;
+}
+
+#eventfulID{
+    display: none;
+}
